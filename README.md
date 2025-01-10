@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&color=F76E11&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hello,+World!+👋;+I'm+Naveen+Venkatraman!;+A+Passionate+Full-Stack+Developer;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F76E11&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hello,+World!+👋;+I'm+Naveen+Venkatraman!;+A+Passionate+Full-Stack+Developer;" />
 </h1>
 
 
