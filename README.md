@@ -1,6 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&color=F76E11&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hello,+World!+👋;+I'm+Naveen+Venkatraman!;+A+Passionate+Full-Stack+Developer;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=30&color=F76E11&center=true&vCenter=true&width=600&height=40&duration=4000&lines=Hello,+World!+👋;+I'm+Naveen+Venkatraman!;+A+Passionate+Full-Stack+Developer;" />
 </h1>
+
 
 <h3 align="center">Crafting seamless web experiences with code and creativity.</h3>
 
@@ -43,7 +44,7 @@
 
 <hr/>
 
-<h2 align="center">🐍 Contributions 🐍</h2>
+<h2 align="center">🎯 Contributions 🎯</h2>
 <div align="center">
   <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
