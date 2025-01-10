@@ -63,6 +63,7 @@
 <br/><br/>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Officialdevpro?theme=light&font=Poppins&ext=heatmap)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Officialdevpro?theme=transparent&font=Poppins&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Officialdevpro?theme=dark&font=Poppins&ext=heatmap)
 <hr/>
 
 <br/>
