@@ -60,6 +60,7 @@
 </div>
 
 <br/><br/>
+![LeetCode Stats](https://leetcard.jacoblin.cool/Officialdevpro?theme=light&font=Poppins&ext=heatmap)
 
 <hr/>
 
