@@ -6,13 +6,10 @@
 
 <div align="center">
   <a href="mailto:official.devpro@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-dark?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/naveenvenkatraman" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
 
@@ -29,15 +26,18 @@
 
 <h2 align="center">🔧 Tech Stack 🔧</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,redux,nodejs,express,mongodb,java,python" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,sass,git,github,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,mongodb,java,python" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,sass,git,github,vscode" />
 </div>
 
 <hr/>
 
 <h2 align="center">📊 GitHub Stats 📊</h2>
 <div align="center">
+  <!-- Colorful GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=NandhuVsona&show_icons=true&theme=radical&count_private=true&hide_border=true" width="48%" alt="GitHub Stats" />
+  
+  <!-- Animated Top Languages Bar -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandhuVsona&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
 </div>
 
