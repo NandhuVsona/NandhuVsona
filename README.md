@@ -59,6 +59,5 @@
 
 <h2 align="center">🚀 LeetCode Journey 🚀</h2>
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Officialdevpro?theme=light&font=Poppins&ext=heatmap" alt="LeetCode Stats Light" />
   <img src="https://leetcard.jacoblin.cool/Officialdevpro?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats Dark" />
 </div>
