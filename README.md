@@ -40,7 +40,8 @@
 
 <br/>
 <hr/>
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=NandhuVsona&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=NandhuVsona&show_icons=true&theme=radical)
+
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
